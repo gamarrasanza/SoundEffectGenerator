@@ -1,0 +1,11 @@
+C:\Arturo\UNI\ULB\Embedded\Lab4\SoundEffectGenerator\SoundEffectGenerator.wvsln:
+BuildOrder=SoundEffectGenerator_V3F,SoundEffectGenerator_V5F
+-arm:${eclipse_home}\toolchain\arm-none-eabi-gcc\bin
+-build:${eclipse_home}\toolchain\Build Tools\bin
+-openocd name:openocd.exe
+-openocd path:${eclipse_home}\toolchain\OpenOCD\bin
+-rv:${eclipse_home}\toolchain\RISC-V Embedded GCC\bin
+C:\Arturo\UNI\ULB\Embedded\Lab4\SoundEffectGenerator\V3F
+..\V3F
+C:\Arturo\UNI\ULB\Embedded\Lab4\SoundEffectGenerator\V5F
+..\V5F
